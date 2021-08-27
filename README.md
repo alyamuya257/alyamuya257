@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alyamuya257
+- 👋 Hi, I’m Allie lyamuya
 - 👀 I’m interested in data science and front-end development
 - 🌱 I’m currently learning data analysis in R
 - 💞️ I’m looking to collaborate on data analysis projects in R
